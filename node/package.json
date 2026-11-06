@@ -1,0 +1,14 @@
+{
+  "name": "desafio-node-nginx",
+  "version": "1.0.0",
+  "description": "Node.js atras do Nginx com persistencia no MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
